@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UnnamedGame.sln"
+    "dotnet.defaultSolution": "UnnamedGame.sln",
+    "vstuc.refreshOnSave": true
 }
